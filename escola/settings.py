@@ -9,7 +9,8 @@ https://docs.djangoproject.com/en/2.2/topics/settings/
 For the full list of settings and their values, see
 https://docs.djangoproject.com/en/2.2/ref/settings/
 
-Token fe4a77c5bb46c20ca7a568fbfdee8fc947d868ad
+thiago Token fe4a77c5bb46c20ca7a568fbfdee8fc947d868ad
+felicity Token e5d64d3685fe983b97e02a0be3ef6d89ccb765f4
 
 """
 
