@@ -5,11 +5,9 @@ headers = {'Authorization' : 'Token e5d64d3685fe983b97e02a0be3ef6d89ccb765f4'}
 url_base_cursos = 'http://localhost:8000/api/v2/cursos/'
 url_base_avaliacoes = 'http://localhost:8000/api/v2/avaliacoes/'
 
-resultado = requests.get(url=url_base_cursos, headers=headers)
-
 novo_curso = {
-    "titulo" : "Gerência Ágil de Projetos com Scrum 2",
-    "url" : "http://www.geekuniversity.com/scrum2"
+    "titulo" : "Gerência Ágil de Projetos com Scrum 3",
+    "url" : "http://www.geekuniversity.com/scrum3"
 }
 
 resultado = requests.post(url=url_base_cursos, headers=headers, data=novo_curso)
